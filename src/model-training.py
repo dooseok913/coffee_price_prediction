@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 # 1. 데이터 수집 
 # ============================================
 
-FRED_API_KEY = "46e4ba9f721e9738794073c8fa787d2d"
+FRED_API_KEY = "your_fred_api_key_here"
 
 def get_fred_data(series_id, start_date='2015-01-01', end_date='2025-12-31'):
     url = f"https://api.stlouisfed.org/fred/series/observations"

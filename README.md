@@ -265,7 +265,7 @@ streamlit run app/streamlit_app.py
 
 ## 📞 문의
 
-- **Portfolio**: https://dooseok913.github.io
+- **Portfolio**: https://dooseok913.github.io/coffee
 - **Email**: cds1745@naver.com
 - **GitHub**: [@dooseok913](https://github.com/dooseok913)
 

@@ -1,4 +1,4 @@
-# coffee_price_prediction
+
 # ☕ Coffee Price Prediction System
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
